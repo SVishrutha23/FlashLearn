@@ -71,6 +71,5 @@ flash-learn/
 - Add or edit flashcard data in `lib/flashcard-data.ts`.
 - UI components can be extended or replaced in the `components/` directory.
 - Tailwind theme can be customized in `tailwind.config.ts` and `styles/globals.css`.
-- Add any languages for any customization in learning.
 
 **FLASH LEARN** — Master Languages, One Flashcard at a Time! 
