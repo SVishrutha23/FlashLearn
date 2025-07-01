@@ -1,6 +1,6 @@
 # FLASH LEARN
 
-FLASH LEARN is an interactive language learning platform designed to help users master Spanish, French, and Japanese (and more) through engaging flashcards, quizzes, and progress tracking. Built with Next.js, React, and Tailwind CSS, it offers a modern, customizable, and accessible learning experience.
+FLASH LEARN is an interactive language learning platform designed to help users master Spanish, French, and Japanese (and more) through engaging flashcards, quizzes, and progress tracking. Built with Next.js, React, and Tailwind CSS, it offers a modern, customizable, interactive and accessible learning experience.
 
 ## Features
 
